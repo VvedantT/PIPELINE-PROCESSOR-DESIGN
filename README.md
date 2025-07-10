@@ -50,3 +50,5 @@ Inside the testbench i am just calling the clk and reset and displaying all the 
 <img width="1617" height="860" alt="Image" src="https://github.com/user-attachments/assets/78724fae-8ba8-445f-b876-4be06a396a7d" />
 <img width="1622" height="868" alt="Image" src="https://github.com/user-attachments/assets/eccea850-6d95-4e08-ac57-53a7ec8ca193" />
 
+<img width="1419" height="588" alt="Image" src="https://github.com/user-attachments/assets/0036d64e-9978-477d-98e8-3e15e4fc6958" />
+
