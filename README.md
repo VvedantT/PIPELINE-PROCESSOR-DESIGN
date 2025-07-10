@@ -46,3 +46,7 @@ Therefore i am initializing program counter(PC) to 0 and incrementing it by 1.
 If reset is equal to 1 the PC is made 0 
 
 Inside the testbench i am just calling the clk and reset and displaying all the register values on the TCL console.
+
+<img width="1617" height="860" alt="Image" src="https://github.com/user-attachments/assets/78724fae-8ba8-445f-b876-4be06a396a7d" />
+<img width="1622" height="868" alt="Image" src="https://github.com/user-attachments/assets/eccea850-6d95-4e08-ac57-53a7ec8ca193" />
+
